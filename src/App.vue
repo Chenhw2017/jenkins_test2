@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h1>Jenkins test 5:26 必须阿里云配置安全组解放指定端口 6:18 </h1>
+    <h1>Jenkins test 5:26 必须阿里云配置安全组解放指定端口 6:56 </h1>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
